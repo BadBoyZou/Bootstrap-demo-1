@@ -1,0 +1,29 @@
+body {
+    padding-top: 50px;
+}
+
+.sidebar {
+    background-color: #ccc;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 51px;
+    padding: 20px 0 0 0;
+}
+
+.gourpbtn {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.progress {
+    margin-top: 10px;
+}
+
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #428bca;
+}
